@@ -1,0 +1,32 @@
+{
+  "1": {
+    "mcq": "What does CPU stand for?",
+    "options": {
+      "a": "Central Process Unit",
+      "b": "Central Processing Unit",
+      "c": "Computer Personal Unit",
+      "d": "Central Processor Utility"
+    },
+    "correct option": "b"
+  },
+  "2": {
+    "mcq": "Which data type is immutable in Python?",
+    "options": {
+      "a": "list",
+      "b": "set",
+      "c": "tuple",
+      "d": "dictionary"
+    },
+    "correct option": "c"
+  },
+  "3": {
+    "mcq": "Which data type is mutable in Python?",
+    "options": {
+      "a": "list",
+      "b": "tuple",
+      "c": "string",
+      "d": "int"
+    },
+    "correct option": "a"
+  }
+}
