@@ -61,12 +61,12 @@ with st.form("user_inputs"):
                     try:
                         quiz = ast.literal_eval(quiz)
                     except Exception as e:
-                        st.error("❌ Could not parse the quiz string.")
-                        st.write("🧪 Raw quiz string:", quiz)
+                        st.error("Could not parse the quiz string.")
+                        st.write("Raw quiz string:", quiz)
                         quiz = None
 
                 if quiz:
-                    st.subheader("📝 Raw Quiz Output")
+                    st.subheader(" Raw Quiz Output")
                     st.json(quiz)
 
                     table_data = get_table_data(json.dumps(quiz))

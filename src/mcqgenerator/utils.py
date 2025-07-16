@@ -20,7 +20,7 @@ def read_file(file):
 
     except Exception as e:
         traceback.print_exc()
-        raise Exception(f" Error reading file: {str(e)}")
+        raise Exception(f" Error readiing file: {str(e)}")
 
 def get_table_data(quiz_str):
     try:
