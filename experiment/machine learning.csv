@@ -1,6 +1,6 @@
 mcq,choice,correct
-What is the main focus of machine learning?,a:Imitating human learning | b:Performing tasks autonomously | c:Improving performance through data exposure | d:All of the above,d
-Which type of learning uses labeled datasets?,a:Supervised learning | b:Unsupervised learning | c:Semi-supervised learning | d:Reinforcement learning,a
-What is the main difference between deep learning and machine learning?,a:Deep learning requires labeled datasets | b:Machine learning is a sub-field of deep learning | c:Deep learning can automatically determine features | d:Machine learning is more dependent on human intervention,c
-Which algorithm is used for predicting numerical values based on a linear relationship?,a:Neural networks | b:Logistic regression | c:Linear regression | d:Decision trees,c
-What is the main challenge related to implementing machine learning in businesses?,a:Technological singularity | b:AI impact on jobs | c:Privacy concerns | d:Bias and discrimination,c
+What is the main focus of machine learning?,a:Enabling computers to imitate humans | b:Improving computer performance through data exposure | c:Creating autonomous machines | d:All of the above,d
+Which machine learning category uses labeled datasets?,a:Supervised learning | b:Unsupervised learning | c:Semi-supervised learning | d:Reinforcement learning,a
+What is the main difference between deep learning and machine learning?,a:Deep learning requires labeled datasets | b:Machine learning is a sub-field of deep learning | c:Deep learning can automatically determine features | d:Machine learning is more scalable,c
+Which algorithm is used for predicting numerical values based on a linear relationship?,a:Neural networks | b:Clustering | c:Linear regression | d:Decision trees,c
+What is the purpose of reinforcement learning?,a:To use labeled datasets for training | b:To cluster unlabeled datasets | c:To learn through trial and error | d:To analyze data patterns,c
