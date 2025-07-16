@@ -48,7 +48,7 @@ quiz_chain=LLMChain(llm=llm, prompt=quiz_generation_prompt, output_key="quiz", v
 
 #Prompt tamplate2
 TEMPLATE2='''
-            you are an expert english grammarian and writer.
+            you are an expert english gramarian and writer.
             givean a multiple choice quiz for {subject} students.
             you need to evaluate the complexity of the question and given a complete analysis of the quiz. only use at max  word complexity,
             Update the quiz questions which needs to be changeed and chance the tone such that it prefectly fits students ability.
